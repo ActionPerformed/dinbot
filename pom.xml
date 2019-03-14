@@ -9,6 +9,7 @@
     <description>Discord Bot by Autokadd</description>
 
 	<build>
+		<sourceDirectory>Main/src/main/java</sourceDirectory>
 		<plugins>
 		    <plugin>
 			<artifactId>maven-assembly-plugin</artifactId>
