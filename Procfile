@@ -1,1 +1,1 @@
-web: java -jar target/DinA0Bot-1.0-SNAPSHOT.jar
+web: java -jar target/DiscordBot-1.0-SNAPSHOT.jar
